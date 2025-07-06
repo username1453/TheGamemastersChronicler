@@ -1,0 +1,252 @@
+{
+  "PersonalDevelopmentGroup": {
+    "1": {
+      "SingleLife": "Start/End an affair with [T2][+1 lover]",
+      "LoveLife": "Fall in love with [T2][1 lover]",
+      "Relationships": "Get engaged to be married/Get betrothed to [T3]",
+      "Changes": "Change your religion/sect/philosophy",
+      "Friendships": "Make a new friend[+1 friend]",
+      "TurningPoint": "Reveal a secret to [T1]/learn [T1]’s secret"
+    },
+    "2": {
+      "SingleLife": "Start/End a relationship with [T2][1 lover]",
+      "LoveLife": "Fall madly in love with [T2][1 lover]",
+      "Relationships": "Get married/enter a long-term pact with [T3][1 spouse]",
+      "Changes": "Change your political affiliation",
+      "Friendships": "Lose a friend[-1 friend]",
+      "TurningPoint": "Become a colonist/pilgrim/seeker/wanderer"
+    },
+    "3": {
+      "SingleLife": "Start/End a relationship with [T2][1 lover]",
+      "LoveLife": "Get pregnant/Get someone pregnant/have a child[+1 child]",
+      "Relationships": "Change your home",
+      "Changes": "Have a serious argument/betrayal with [T1]",
+      "Friendships": "Become/Cease to be a recluse/loner/outcast/hermit",
+      "TurningPoint": "Encounter an important person from your past such as [T1]"
+    },
+    "4": {
+      "SingleLife": "Start/End a relationship with [T2][1 lover]",
+      "LoveLife": "Become celibate for a long period",
+      "Relationships": "Join an important organization",
+      "Changes": "An old friend/family friend passes away",
+      "Friendships": "Reconnect with a childhood friend/former acquaintance [+1 friend]",
+      "TurningPoint": "Have an experience which changes your worldview"
+    },
+    "5": {
+      "SingleLife": "Move into/out of a shared home with [T1]",
+      "LoveLife": "Confront your lover with a serious issue",
+      "Relationships": "Separate from partner",
+      "Changes": "Perform a major Rite of Passage",
+      "Friendships": "Share an intense experience with [T1][+1 friend]",
+      "TurningPoint": "Undergo a spiritual awakening or crisis"
+    },
+    "6": {
+      "SingleLife": "Have a falling-out/reconciliation with [T1]",
+      "LoveLife": "Question your sexual identity or role",
+      "Relationships": "Split up/Get a Divorce/Terminate pact[-1 spouse]",
+      "Changes": "Become a celebrity",
+      "Friendships": "[T1] betrays you or you betray [T1][-1 friend]",
+      "TurningPoint": "A relative dies (and maybe leaves an inheritance)"
+    }
+  },
+  "TransformingEventsGroup": {
+    "1": {
+      "Health": "You are diagnosed with a serious disease or disorder",
+      "Career": "You get a new job/assignment",
+      "Financial": "You make a major purchase like a home, vehicle, land, etc.",
+      "LawAndCrime": "You become involved in a crime/conspiracy with [T2]",
+      "SocialConflict": "You betray/are betrayed by [T1] you trust",
+      "MajorEvent": "You survive a major disaster, natural or otherwise"
+    },
+    "2": {
+      "Health": "You are badly injured",
+      "Career": "You lose your position",
+      "Financial": "You find yourself deeply in debt",
+      "LawAndCrime": "You are the victim of a crime/conspiracy",
+      "SocialConflict": "You join/oppose a controversial social movement",
+      "MajorEvent": "You are caught up in a war/armed uprising"
+    },
+    "3": {
+      "Health": "You have a mental/emotional breakdown/disorder",
+      "Career": "You get a new supervisor or partner who is [T2]",
+      "Financial": "You get out of debt/declare bankruptcy",
+      "LawAndCrime": "You become involved in a lawsuit from [T2]",
+      "SocialConflict": "You are caught up in a feud/factional conflict involving [T2]",
+      "MajorEvent": "You experience a famine or other severe shortage"
+    },
+    "4": {
+      "Health": "You require/donate a transplant organ receiving it from [T1]",
+      "Career": "You have a major success",
+      "Financial": "You invest with great success",
+      "LawAndCrime": "You get into trouble with the law",
+      "SocialConflict": "You encounter discrimination or intolerance",
+      "MajorEvent": "You are caught up in violent civil disorder/rioting/protests"
+    },
+    "5": {
+      "Health": "You get a minor body modification like a tattoo or piercing",
+      "Career": "You have a major failure",
+      "Financial": "You invest with major losses",
+      "LawAndCrime": "You are publicly accused of a crime by [T2]",
+      "SocialConflict": "You encounter oppression or exploitation",
+      "MajorEvent": "You experience a kidnapping/hostage crisis/terror attack"
+    },
+    "6": {
+      "Health": "You receive a major body modification such as a prosthetic limb, organ, etc.",
+      "Career": "You feel your career is stagnating",
+      "Financial": "You receive charitable assistance/receive a grant",
+      "LawAndCrime": "You are affected by a new law/enforcement crackdown",
+      "SocialConflict": "You make an enemy or encounter an old enemy and the [T4][+1 rival]",
+      "MajorEvent": "You are caught up in political upheaval or revolution"
+    }
+  },
+  "RivalEventsGroup": {
+    "1": {
+      "AddRivals": "Make a new enemy/rival. The [T4][+1 rival]",
+      "Sabotage": "A rival tries to sabotage your career.",
+      "Reputation": "A rival schemes to ruin you financially.",
+      "CollaborConflict": "A rival wins something you wanted—job, prize, partner, etc.",
+      "Resolution": "Discover your rival is involved in criminal or unethical behavior.",
+      "Escalation": "A rival directly confronts/challenges you."
+    },
+    "2": {
+      "AddRivals": "Make a new enemy/rival. The [T4][+1 rival]",
+      "Sabotage": "A rival tries to sabotage your career.",
+      "Reputation": "A rival steals credit for your work or achievement.",
+      "CollaborConflict": "You are forced to work with your rival temporarily.",
+      "Resolution": "A mutual friend or ally is forced to choose sides.",
+      "Escalation": "A rival directly confronts/challenges you."
+    },
+    "3": {
+      "AddRivals": "Make a new enemy/rival. The [T4][+1 rival]",
+      "Sabotage": "A rival tries to sabotage your career.",
+      "Reputation": "A rival spreads rumors to damage your reputation.",
+      "CollaborConflict": "A rival publicly humiliates you.",
+      "Resolution": "A rival is caught in a scandal.",
+      "Escalation": "A rival directly confronts/challenges you."
+    },
+    "4": {
+      "AddRivals": "An old rival returns unexpectedly.[+1 rival]",
+      "Sabotage": "A rival attempts to seduce or sabotage your significant other.",
+      "Reputation": "A rivalry deepens after a public confrontation.",
+      "CollaborConflict": "You embarrass or defeat your rival publicly.",
+      "Resolution": "A rival disappears mysteriously.",
+      "Escalation": "A rival directly confronts/challenges you."
+    },
+    "5": {
+      "AddRivals": "A rivalry deepens after a public confrontation.",
+      "Sabotage": "A rival attempts to seduce or sabotage your significant other.",
+      "Reputation": "A rival schemes to ruin you financially.",
+      "CollaborConflict": "You and your rival reconcile.[-1 rival]",
+      "Resolution": "You and your rival reconcile.[-1 rival]",
+      "Escalation": "Attempted to sabotage a rival."
+    },
+    "6": {
+      "AddRivals": "A rival spreads rumors to damage your reputation.",
+      "Sabotage": "A rival attempts to seduce or sabotage your significant other.",
+      "Reputation": "A rival attempts to harm you physically.",
+      "CollaborConflict": "You and your rival reconcile.[-1 rival]",
+      "Resolution": "You attempt to sabotage a rival.",
+      "Escalation": "A rival attempts to harm you physically."
+    }
+  },
+  "MundaneEventsGroup": {
+    "1": {
+      "NewHobbies": "Try a new sport or recreational activity",
+      "NewEntertainments": "Become an ardent fan of a sport/sports team",
+      "PopularCulture": "Start following a new celebrity or influencer",
+      "LocalEvents": "Attend a local festival or celebration",
+      "MediaAndTrends": "Start regularly reading a blog, zine, or niche site",
+      "PersonalIndulgence": "Start a new personal collection like toys, books, etc."
+    },
+    "2": {
+      "NewHobbies": "Pick up a creative hobby such as photography, model building",
+      "NewEntertainments": "Become an ardent fan of an artist/performer",
+      "PopularCulture": "Develop a strong interest in retro or niche culture",
+      "LocalEvents": "Become involved in local government without running [+1 friend][+1 rival]",
+      "MediaAndTrends": "Begin sharing regular commentary or news on a topic you care about. Such as a podcast or newspaper",
+      "PersonalIndulgence": "Regularly splurge on something small and fun"
+    },
+    "3": {
+      "NewHobbies": "Join a club or hobby group [+1 friend][+1 rival]",
+      "NewEntertainments": "Play a new series of games such as board games, RPGs, video games",
+      "PopularCulture": "Become involved in a visual art or new musical form",
+      "LocalEvents": "Take part in a local issue or town meeting [50/50 +1 friend or +1 rival]",
+      "MediaAndTrends": "Become a local social media personality [+1 rival]",
+      "PersonalIndulgence": "Get into fashion trends or personal grooming fads"
+    },
+    "4": {
+      "NewHobbies": "Volunteer for a charity, development, or community project [+1 friend]",
+      "NewEntertainments": "Watch a new movie or TV series",
+      "PopularCulture": "Become obsessed with a pop trend such as dances, phrases",
+      "LocalEvents": "Participate in a neighborhood improvement project with [T1]",
+      "MediaAndTrends": "Get featured in local news or community coverage",
+      "PersonalIndulgence": "Redecorate or reorganize your living space"
+    },
+    "5": {
+      "NewHobbies": "Learn an old-fashioned skill such as knitting, carpentry, etc.",
+      "NewEntertainments": "Follow an entertainment franchise deeply such as cosplay, lore, etc. [+1 friend]",
+      "PopularCulture": "Become involved in the media or social media scene",
+      "LocalEvents": "Start a regular event such as game night, open mic, etc. with [T1] [+1 friend]",
+      "MediaAndTrends": "Oversee a discussion group either in-person or online",
+      "PersonalIndulgence": "Develop a guilty pleasure you're slightly embarrassed about"
+    },
+    "6": {
+      "NewHobbies": "Try an unusual or fringe hobby such as exploration, parkour [+1 friend]",
+      "NewEntertainments": "Discover an underground/foreign artist",
+      "PopularCulture": "Try a new drug legal or otherwise",
+      "LocalEvents": "Become a minor local celebrity or personality [+1 friend][+1 rival]",
+      "MediaAndTrends": "Become a trendsetter",
+      "PersonalIndulgence": "Get into luxury or sensory experiences such as spas, wine tastings, etc."
+    }
+  },
+  "SettingSpecificEventsGroup": {
+    "1": {
+      "Disruption": "Jump-space misjump and survive [50/50 +1 friend or +1 rival]",
+      "Society": "Witness the benefits of interstellar society",
+      "ConflictDanger": "Drafted into the military temporarily [+1 friend]",
+      "Frontier": "Near an Ancients/Advanced Alien site",
+      "PersonalRelationships": "[T1] important to you dies",
+      "CrimeSecretsJustice": "Witness or cover up serious ship accident"
+    },
+    "2": {
+      "Disruption": "Berth double-booked or lost with [T2] due to bureaucracy [50/50 +1 friend or +1 rival]",
+      "Society": "Witness the negatives of interstellar society",
+      "ConflictDanger": "Get into a bloody conflict and [T1] is on your side [+1 friend] [+1 rival]",
+      "Frontier": "Wildlife [native/imported] invades your area",
+      "PersonalRelationships": "[T1] is in need",
+      "CrimeSecretsJustice": "Witness a smuggling exchange/cyber-heist/other serious crime"
+    },
+    "3": {
+      "Disruption": "Survive a near-collision / pirate attack / crash landing / life pod escape [50/50 +1 friend or +1 rival]",
+      "Society": "Run-in with a rogue AI",
+      "ConflictDanger": "Get into a bloody conflict and [T2] is on your side [+1 friend] [+1 rival]",
+      "Frontier": "Enter a red zone and face consequences",
+      "PersonalRelationships": "[T2] comes to your aid [+1 friend]",
+      "CrimeSecretsJustice": "Bounty hunter appears looking for [T1] you know"
+    },
+    "4": {
+      "Disruption": "Ship boarded and searched by customs/navy/megacorp",
+      "Society": "Test or adopt early megacorp technology",
+      "ConflictDanger": "Get into a bloody conflict and [T2] is on your side [+1 friend] [+1 rival]",
+      "Frontier": "Positive experience with an Uplifted Species [+1 friend]",
+      "PersonalRelationships": "Adopt a pet [T5]",
+      "CrimeSecretsJustice": "Testify in a major investigation or tribunal"
+    },
+    "5": {
+      "Disruption": "Unexpected customs inspection or quarantine",
+      "Society": "Megacorp facility involved in ethical/legal wrongdoing",
+      "ConflictDanger": "Get into a bloody conflict and [T2] is on your side [+1 friend] [+1 rival]",
+      "Frontier": "Negative experience with an Uplifted Species",
+      "PersonalRelationships": "Move to a new town/city/planet/system [-1 friend][-1 rival]",
+      "CrimeSecretsJustice": "Spend time in cryo-sleep or low-berth"
+    },
+    "6": {
+      "Disruption": "Victim of an administrative mistake that takes weeks/months to fix",
+      "Society": "Megacorp aids your hometown (perhaps as PR)",
+      "ConflictDanger": "Peacekeeping force arrives in your area",
+      "Frontier": "Retired scout/prospector tells you something wild",
+      "PersonalRelationships": "Take a memorable vacation with [T1]",
+      "CrimeSecretsJustice": "Displaced, becoming a refugee but [T1] doesn’t make it out"
+    }
+  }
+}

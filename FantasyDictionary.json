@@ -1,0 +1,252 @@
+{
+  "PersonalDevelopmentGroup": {
+    "1": {
+      "SingleLife": "Start/End an affair with [T2][+1 lover]",
+      "LoveLife": "Fall in love with [T2][1 lover]",
+      "Relationships": "Get engaged to be married/Get betrothed to [T3]",
+      "Changes": "Change your religion/sect/philosophy",
+      "Friendships": "Make a new friend[+1 friend]",
+      "TurningPoint": "Reveal a secret to [T1]/learn [T1]’s secret"
+    },
+    "2": {
+      "SingleLife": "Start/End a relationship with [T2][1 lover]",
+      "LoveLife": "Fall madly in love with [T2][1 lover]",
+      "Relationships": "Get married/enter a long-term pact with [T3][1 spouse]",
+      "Changes": "Change your political affiliation",
+      "Friendships": "Lose a friend[-1 friend]",
+      "TurningPoint": "Become a colonist/pilgrim/seeker/wanderer"
+    },
+    "3": {
+      "SingleLife": "Start/End a relationship with [T2][1 lover]",
+      "LoveLife": "Get pregnant/Get someone pregnant/have a child[+1 child]",
+      "Relationships": "Change your home",
+      "Changes": "Have a serious argument/betrayal with [T1]",
+      "Friendships": "Become/Cease to be a recluse/loner/outcast/hermit",
+      "TurningPoint": "Encounter an important person from your past such as [T1]"
+    },
+    "4": {
+      "SingleLife": "Start/End a relationship with [T2][1 lover]",
+      "LoveLife": "Become celibate for a long period",
+      "Relationships": "Join an important organization",
+      "Changes": "An old friend/family friend passes away",
+      "Friendships": "Reconnect with a childhood friend/former acquaintance [+1 friend]",
+      "TurningPoint": "Have an experience which changes your worldview"
+    },
+    "5": {
+      "SingleLife": "Move into/out of a shared home with [T1]",
+      "LoveLife": "Confront your lover with a serious issue",
+      "Relationships": "Separate from partner",
+      "Changes": "Perform a major Rite of Passage",
+      "Friendships": "Share an intense experience with [T1][+1 friend]",
+      "TurningPoint": "Undergo a spiritual awakening or crisis"
+    },
+    "6": {
+      "SingleLife": "Have a falling-out/reconciliation with [T1]",
+      "LoveLife": "Question your sexual identity or role",
+      "Relationships": "Split up/Get a Divorce/Terminate pact[-1 spouse]",
+      "Changes": "Become a celebrity",
+      "Friendships": "[T1] betrays you or you betray [T1][-1 friend]",
+      "TurningPoint": "A relative dies (and maybe leaves an inheritance)"
+    }
+  },
+  "TransformingEventsGroup": {
+    "1": {
+      "Health": "You are diagnosed with a serious disease or disorder",
+      "Career": "You get a new job/assignment",
+      "Financial": "You make a major purchase like a home, vehicle, land, etc.",
+      "LawAndCrime": "You become involved in a crime/conspiracy with [T2]",
+      "SocialConflict": "You betray/are betrayed by [T1] you trust",
+      "MajorEvent": "You survive a major disaster, natural or otherwise"
+    },
+    "2": {
+      "Health": "You are badly injured",
+      "Career": "You lose your position",
+      "Financial": "You find yourself deeply in debt",
+      "LawAndCrime": "You are the victim of a crime/conspiracy",
+      "SocialConflict": "You join/oppose a controversial social movement",
+      "MajorEvent": "You are caught up in a war/armed uprising"
+    },
+    "3": {
+      "Health": "You have a mental/emotional breakdown/disorder",
+      "Career": "You get a new supervisor or partner who is [T2]",
+      "Financial": "You get out of debt/declare bankruptcy",
+      "LawAndCrime": "You become involved in a lawsuit from [T2]",
+      "SocialConflict": "You are caught up in a feud/factional conflict involving [T2]",
+      "MajorEvent": "You experience a famine or other severe shortage"
+    },
+    "4": {
+      "Health": "You require/donate a transplant organ receiving it from [T1]",
+      "Career": "You have a major success",
+      "Financial": "You invest with great success",
+      "LawAndCrime": "You get into trouble with the law",
+      "SocialConflict": "You encounter discrimination or intolerance",
+      "MajorEvent": "You are caught up in violent civil disorder/rioting/protests"
+    },
+    "5": {
+      "Health": "You get a minor body modification like a tattoo or piercing",
+      "Career": "You have a major failure",
+      "Financial": "You invest with major losses",
+      "LawAndCrime": "You are publicly accused of a crime by [T2]",
+      "SocialConflict": "You encounter oppression or exploitation",
+      "MajorEvent": "You experience a kidnapping/hostage crisis/terror attack"
+    },
+    "6": {
+      "Health": "You receive a major body modification such as a prosthetic limb, organ, etc.",
+      "Career": "You feel your career is stagnating",
+      "Financial": "You receive charitable assistance/receive a grant",
+      "LawAndCrime": "You are affected by a new law/enforcement crackdown",
+      "SocialConflict": "You make an enemy or encounter an old enemy and the [T4][+1 rival]",
+      "MajorEvent": "You are caught up in political upheaval or revolution"
+    }
+  },
+  "RivalEventsGroup": {
+    "1": {
+      "AddRivals": "Make a new enemy/rival. The [T4][+1 rival]",
+      "Sabotage": "A rival tries to sabotage your career.",
+      "Reputation": "A rival schemes to ruin you financially.",
+      "CollaborConflict": "A rival wins something you wanted—job, prize, partner, etc.",
+      "Resolution": "Discover your rival is involved in criminal or unethical behavior.",
+      "Escalation": "A rival directly confronts/challenges you."
+    },
+    "2": {
+      "AddRivals": "Make a new enemy/rival. The [T4][+1 rival]",
+      "Sabotage": "A rival tries to sabotage your career.",
+      "Reputation": "A rival steals credit for your work or achievement.",
+      "CollaborConflict": "You are forced to work with your rival temporarily.",
+      "Resolution": "A mutual friend or ally is forced to choose sides.",
+      "Escalation": "A rival directly confronts/challenges you."
+    },
+    "3": {
+      "AddRivals": "Make a new enemy/rival. The [T4][+1 rival]",
+      "Sabotage": "A rival tries to sabotage your career.",
+      "Reputation": "A rival spreads rumors to damage your reputation.",
+      "CollaborConflict": "A rival publicly humiliates you.",
+      "Resolution": "A rival is caught in a scandal.",
+      "Escalation": "A rival directly confronts/challenges you."
+    },
+    "4": {
+      "AddRivals": "An old rival returns unexpectedly.[+1 rival]",
+      "Sabotage": "A rival attempts to seduce or sabotage your significant other.",
+      "Reputation": "A rivalry deepens after a public confrontation.",
+      "CollaborConflict": "You embarrass or defeat your rival publicly.",
+      "Resolution": "A rival disappears mysteriously.",
+      "Escalation": "A rival directly confronts/challenges you."
+    },
+    "5": {
+      "AddRivals": "A rivalry deepens after a public confrontation.",
+      "Sabotage": "A rival attempts to seduce or sabotage your significant other.",
+      "Reputation": "A rival schemes to ruin you financially.",
+      "CollaborConflict": "You and your rival reconcile.[-1 rival]",
+      "Resolution": "You and your rival reconcile.[-1 rival]",
+      "Escalation": "Attempted to sabotage a rival."
+    },
+    "6": {
+      "AddRivals": "A rival spreads rumors to damage your reputation.",
+      "Sabotage": "A rival attempts to seduce or sabotage your significant other.",
+      "Reputation": "A rival attempts to harm you physically.",
+      "CollaborConflict": "You and your rival reconcile.[-1 rival]",
+      "Resolution": "You attempt to sabotage a rival.",
+      "Escalation": "A rival attempts to harm you physically."
+    }
+  },
+  "MundaneEventsGroup": {
+    "1": {
+      "NewHobbies": "Try a new sport (combat or otherwise) or recreational activity",
+      "NewEntertainments": "Attend puppet shows, shadow plays, or street performances in the market.",
+      "PopularCulture": "Pick up on a new bard’s ballad or a widely circulating tale.",
+      "LocalEvents": "Attend a local festival or celebration",
+      "MediaAndTrends": "Start regularly reading",
+      "PersonalIndulgence": "Start a new personal collection like toys, books, etc."
+    },
+    "2": {
+      "NewHobbies": "Pick up a creative hobby such as whittling or knitting",
+      "NewEntertainments": "Become an ardent fan of an artist/performer",
+      "PopularCulture": "Listen to retellings of the mythology of your world.",
+      "LocalEvents": "Attend a town square duel, public execution, arena combats, or knightly tournament.",
+      "MediaAndTrends": "Begin sharing regular commentary or news on a topic you care about. Such as a broadsheet or newspaper",
+      "PersonalIndulgence": "Regularly splurge on something small and fun"
+    },
+    "3": {
+      "NewHobbies": "Join a club or hobby group [+1 friend][+1 rival]",
+      "NewEntertainments": "Begin playing cards, dice, or another game.",
+      "PopularCulture": "Become involved in a visual art or new musical form",
+      "LocalEvents": "Take part in a local issue or town meeting [50/50 +1 friend or +1 rival]",
+      "MediaAndTrends": "Get caught up in gossip or scandal circulating among the townsfolk.",
+      "PersonalIndulgence": "Get into fashion trends or personal grooming fads."
+    },
+    "4": {
+      "NewHobbies": "Volunteer for a charity, development, or community project [+1 friend]",
+      "NewEntertainments": "Join regular tavern nights for songs, games, and local drama.",
+      "PopularCulture": "Follow the rise of a local folk hero, noble, or religious figure.",
+      "LocalEvents": "Participate in a neighborhood improvement project with [T1]",
+      "MediaAndTrends": "Get featured in local news or community coverage",
+      "PersonalIndulgence": "Treat yourself frequently to fine tavern meals or exotic sweets."
+    },
+    "5": {
+      "NewHobbies": "Learn a practical skill such as cobbling, carpentry, etc.",
+      "NewEntertainments": "Attend an exclusive noble’s feast, masquerade, or private gathering.",
+      "PopularCulture": "Get swept up in a religious revival or prophecy movement.",
+      "LocalEvents": "Volunteer as a helper at a seasonal harvest, planting, or fair.",
+      "MediaAndTrends": "Join a rhetoric or debate group",
+      "PersonalIndulgence": "Develop a guilty pleasure you're slightly embarrassed about"
+    },
+    "6": {
+      "NewHobbies": "Try an unusual or fringe hobby such as exploration, parkour [+1 friend]",
+      "NewEntertainments": "Discover an underground/foreign artist",
+      "PopularCulture": "Try a new drug legal or otherwise",
+      "LocalEvents": "Become a minor local celebrity or personality [+1 friend][+1 rival]",
+      "MediaAndTrends": "Become a trendsetter",
+      "PersonalIndulgence": "Get into luxury or sensory experiences such as spas, wine tastings, etc."
+    }
+  },
+  "SettingSpecificEventsGroup": {
+    "1": {
+      "ConflictDanger": "Drafted into the military temporarily. [+1 friend]",
+      "PersonalRelationships": "[T1] important to you dies.",
+      "CrimeSecretsJustice": "Witness a smuggling exchange/heist/other serious crime.",
+      "Disruption": "Wander down a forgotten path and pass time in the realm of the fey.",
+      "Society": "An ex-adventurer tells you something wild.",
+      "Frontier": "Discover an ancient ruin/dungeon nearby."
+    },
+	  "2": {
+      "ConflictDanger": "Get into a bloody conflict and [T2] is on your side. [+1 friend] [+1 rival]",
+      "PersonalRelationships": "Adopt a pet [T5].", 
+      "CrimeSecretsJustice": "Witness or cover up serious accident.",
+      "Disruption": "A wizard's experiment goes foul forcing the character to flee from/or fight for their home.",
+      "Society": "A local nobleman torments the character. [+1 rival]",
+      "Frontier": "A strange eldritch beast lurks in the nearby area terrorizing the character and those nearby."
+    },
+	  "3": {
+      "ConflictDanger": "Get into a bloody conflict and [T2] is on your side. [+1 friend] [+1 rival]",
+      "PersonalRelationships": "Take a memorable vacation with [T1]",
+      "CrimeSecretsJustice": "Testify in a major investigation or tribunal.",
+      "Disruption": "A necromancer or lich raises the dead including your deceased [T1].",
+      "Society": "A political conflict turns into a skirmish/war.",
+      "Frontier": "Enter a forbidden area and return changed/remain trapped for a time."
+    },
+	  "4": {
+      "ConflictDanger": "A dragon attacks.",
+      "PersonalRelationships": "Displaced, becoming a refugee but [T1] doesn’t make it out.",
+      "CrimeSecretsJustice": "A bounty hunter appears looking for [T1] you know.",
+      "Disruption": "A magical affliction curses people around character including [T1].",
+      "Society": "Divine crusaders pass through the town looking for a source of evil.",
+      "Frontier": "The character gets the opportunity to travel by magical/unusual means."
+    },
+	  "5": {
+      "ConflictDanger": "Rescue/Rescued by a mysterious stranger after a bandit or monster attack. [+1 friend]",
+      "PersonalRelationships": "[T1] develops strange magical powers or is revealed as/turned into a nonhuman.",
+      "CrimeSecretsJustice": "Stumble upon an assassination attempt, the character is forced to choose whether to intervene.",
+      "Disruption": "A cleric comes and uses divine powers to heal the sick.",
+      "Society": "Accused (rightly or wrongly) of practicing forbidden magic. [+1 rival]",
+      "Frontier": "A traveling fantasy circus roams into town with animals and even magical creatures in tow."
+    },
+	  "6": {
+     "ConflictDanger": "Win (or are gifted) a magical item or relic that others now want to steal. [+1 rival]",
+      "PersonalRelationships": "An ancient prophecy or omen unexpectedly names the character/or [T1] as a key figure.",
+      "CrimeSecretsJustice": "A plague or blight sweeps through, threatening crops, animals, or people.",
+      "Disruption": "A rift or portal to another plane briefly opens nearby, spilling strange creatures or magic.",
+      "Society": "Find a lost or cursed magical item that starts affecting the character's daily life.",
+      "Frontier": "An invasion of a barbaric or evil species strikes the character's locale."
+    }
+  }
+}

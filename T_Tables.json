@@ -1,0 +1,42 @@
+{
+  "T1": [
+    "A relative or one of your children, if any",
+    "A sibling",
+    "A parent/guardian",
+    "A lover/spouse/partner/close friend",
+    "A friend/hero/mentor",
+    "A rival/enemy/ex-spouse/ex-lover"
+  ],
+  "T2": [
+    "A stranger",
+    "A stranger",
+    "A stranger",
+    "A mentor/junior",
+    "A colleague",
+    "A friend/Acquaintance"
+  ],
+  "T3": [
+    "An existing lover",
+    "An existing lover",
+    "An existing lover",
+    "An existing lover",
+    "Someone new",
+    "Someone new"
+  ],
+  "T4": [
+    "Rival is a stranger",
+    "Rival is a stranger",
+    "Rival is a stranger",
+    "Rival is an ex-friend/acquaintance",
+    "Rival is family",
+    "Rival is an ex-Lover"
+  ],
+  "T5": [
+    "Cat",
+    "Cat",
+    "Dog",
+    "Dog",
+    "Real world exotic",
+    "Fictional exotic"
+  ]
+}
